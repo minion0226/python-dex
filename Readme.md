@@ -24,7 +24,7 @@ python --version
 1. clone project from github.
 
 ```bash
-git clone
+git clone https://github.com/minion0226/python-dex.git
 ```
 
 2. create virtual environment
